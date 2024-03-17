@@ -64,6 +64,14 @@ content=(
 )
 
 dns=(
+  #NoCoin adblock list
+  "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"
+  #No Google
+  "https://github.com/nickspaargaren/no-google/raw/master/pihole-google-adguard.txt"
+  #1024 host
+  "https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts.txt"
+  #秋风广告过滤规则
+  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
   #Ultimate Ad Filter
   "https://filters.adavoid.org/ultimate-ad-filter.txt"
   #Ultimate Privacy Filter
